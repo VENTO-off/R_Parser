@@ -1,7 +1,7 @@
 ![screenshot](images/icon.png)
 
 # R-Parser
-R-Parser is a server application that parses resource packs, mods, maps and modpacks from curseforge.com for [R-Launcher](https://github.com/VENTO-off/R_Launcher).
+R-Parser is a server application that parses resource packs, mods, maps and modpacks from www.curseforge.com for [R-Launcher](https://github.com/VENTO-off/R_Launcher).
 
 ## Features
 The main features of R-Parser:
